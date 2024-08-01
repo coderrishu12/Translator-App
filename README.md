@@ -15,7 +15,7 @@ You can see a live demo of the app [here](#) (replace with a real URL if availab
 
 ## Screenshots
 
-![Screenshot 1]("C:\Users\ACER\Pictures\Screenshots\Screenshot 2024-08-02 002639.png") (Replace with a real screenshot URL)
+!["C:\Users\ACER\Pictures\Screenshots\Screenshot 2024-08-02 002639.png"]("C:\Users\ACER\Pictures\Screenshots\Screenshot 2024-08-02 002639.png") (Replace with a real screenshot URL)
 
 
 ## Installation
