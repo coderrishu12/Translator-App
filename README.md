@@ -15,7 +15,7 @@ You can see a live demo of the app [here](#) (replace with a real URL if availab
 
 ## Screenshots
 
-![Screenshot](\src\components\img\ScreenShot.png?raw=true)
+![Screenshot]([\src\components\img\ScreenShot.png?raw=true](https://github.com/coderrishu12/Translator-App/blob/main/src/components/img/ScreenShot.png))
 
 
 ## Installation
