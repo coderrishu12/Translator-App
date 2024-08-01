@@ -15,7 +15,7 @@ You can see a live demo of the app [here](#) (replace with a real URL if availab
 
 ## Screenshots
 
-![Screenshot]([\src\components\img\ScreenShot.png?raw=true](https://github.com/coderrishu12/Translator-App/blob/main/src/components/img/ScreenShot.png))
+![Screenshot](https://images.pexels.com/photos/1387022/pexels-photo-1387022.jpeg?cs=srgb&dl=book-aesthetic-books-old-books-open-books-1387022.jpg&fm=jpg)
 
 
 ## Installation
