@@ -9,9 +9,6 @@ A simple React application for translating text between different languages usin
 - **Copy to Clipboard:** Easily copy the translated text or original text.
 - **Language Selection:** Choose from a list of supported languages.
 
-## Demo
-
-You can see a live demo of the app [here](#) (replace with a real URL if available).
 
 ## Screenshots
 
