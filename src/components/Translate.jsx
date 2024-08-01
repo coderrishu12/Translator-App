@@ -149,6 +149,6 @@ function Translate() {
             </button>
         </>
     );
-}
+};
 
 export default Translate;
